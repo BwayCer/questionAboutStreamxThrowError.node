@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "gsF1Ok": "node main.js gsF1Ok",
+    "gsF1Fail": "node main.js gsF1Fail",
+    "gsL1Ok": "node main.js gsL1Ok",
+    "gsL1Fail": "node main.js gsL1Fail",
+    "streamx": "node main.js streamx",
+    "gsListenOk": "node main.js gsListenOk",
+    "gsListenFail": "node main.js gsListenFail",
+    "stream": "node main.js stream"
+  },
+  "dependencies": {
+    "glob-stream": "^8.0.0"
+  }
+}

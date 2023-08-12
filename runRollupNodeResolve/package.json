@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "glob-stream": "^8.0.0",
+    "rollup": "^3.27.2"
+  }
+}
